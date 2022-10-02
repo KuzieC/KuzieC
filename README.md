@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KuzieC (Guanzhi Chen)
 - 👀 I’m interested in robot planning, intelligent robotic ...
-- 🌱 I’m currently year 2 undergraduate computer science student in University of Birmingam 
+- 🌱 I’m currently undergraduate computer science student in University of Birmingam 
 - 💞️ I’m looking for internship opportunities in CS industry
 - 📫 How to reach me -> Kuziechen@outlook.com
 
